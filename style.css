@@ -28,3 +28,10 @@ url('../lab8/img/background.jpg') 0% 0% /cover
 	flex-basis: 50%
   }  
 }
+  
+.list-border-y li {
+  border-top: 1px solid
+}
+.list-border-y li:last-child {
+  border-bottom: 1px solid
+}
